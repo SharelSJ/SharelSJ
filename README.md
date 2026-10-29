@@ -1,6 +1,8 @@
 ## Hey there! I'm Sharel Liu.
 I'm a design technologist and researcher working at the intersection of physical, computational, and intelligent systems
 
+[LinkedIn](https://www.linkedin.com/in/sharelsj/) • [Substack](https://sharelsj.substack.com/) • [GitHub](https://github.com/SharelSJ)
+
 ## [SharelSJ.substack.com](https://sharelsj.substack.com)
 This is where I document my process and write about representation, computation, and how understanding forms.
 
