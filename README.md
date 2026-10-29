@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Sharel Liu.
+## Hey there! I'm Sharel Liu.
 I'm a design technologist and researcher working at the intersection of physical, computational, and intelligent systems
 
 ## [SharelSJ.substack.com](https://sharelsj.substack.com)
