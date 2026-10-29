@@ -1,8 +1,8 @@
 ## Hey there! I'm Sharel Liu.
 I'm a design technologist and researcher working at the intersection of physical, computational, and intelligent systems
 
-[🌼 LinkedIn/in/SharelSJ](https://www.linkedin.com/in/sharelsj/) ·
-[🌻 Substack/@SharelSJ](https://sharelsj.substack.com/) ·
+[🌼 LinkedIn/SharelSJ](https://www.linkedin.com/in/sharelsj/) ·
+[🌻 Substack/SharelSJ](https://sharelsj.substack.com/) ·
 [🌷 GitHub/SharelSJ](https://github.com/SharelSJ)
 
 ### Current focus
