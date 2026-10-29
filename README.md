@@ -2,7 +2,7 @@
 I'm a design technologist and researcher working at the intersection of physical, computational, and intelligent systems
 
 ## [SharelSJ.substack.com](https://sharelsj.substack.com)
-I write about representation, computation, and how understanding forms.
+This is where I document my process and write about representation, computation, and how understanding forms.
 
 ## My background
 My background spans architecture, 3D simulation, digital fabrication, and construction. My current interests extend into computer vision, computer graphics, spatial intelligence, and embodied AI.
